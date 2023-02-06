@@ -1,5 +1,5 @@
-class Environnement:
-
+class EnvironnementInterface:
+    dimension = 500
     def __init__(self):
         pass
 
